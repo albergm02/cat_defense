@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - Player
+  - LevelLimit
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 3476978521
+    locked: 0
+  - name: Cloud
+    uniqueID: 497232231
+    locked: 0
+  - name: Sea
+    uniqueID: 3880797479
+    locked: 0
+  - name: BackEnvironment
+    uniqueID: 1642344417
+    locked: 0
+  - name: Floor
+    uniqueID: 3657195453
+    locked: 0
+  - name: Player
+    uniqueID: 4007467429
+    locked: 0
+  - name: FrontEnvironment
+    uniqueID: 1907520937
+    locked: 0
+  - name: Coin
+    uniqueID: 976245205
+    locked: 0
+  - name: UI
+    uniqueID: 4019361633
+    locked: 0
