@@ -36,25 +36,6 @@ El proyecto fue desarrollado íntegramente en **Unity** con scripts en **C#** co
 
 ---
 
-## 📸 Capturas
-
-<div align="center">
-
-### Menú principal
-![Menú principal](./docs/screenshots/main-menu.png)
-
-### Gameplay
-![Gameplay](./docs/screenshots/gameplay.png)
-
-### Colocación de torres
-![Colocación de torres](./docs/screenshots/tower-placement.png)
-
-</div>
-
-> 📹 También hay un **vídeo demostrativo** completo en [`CatDeffense_Video.mp4`](./CatDeffense_Video.mp4).
-
----
-
 ## 🎮 Cómo jugar
 
 ### Opción 1 — Descargar la build (recomendado)
@@ -134,17 +115,6 @@ El proyecto incluye un informe técnico completo con:
 
 📄 Disponible en [`Informe _CatDeffense.pdf`](./Informe%20_CatDeffense.pdf).
 
----
-
-## 🚀 Posibles mejoras
-
-- [ ] Añadir más tipos de torres con habilidades especiales.
-- [ ] Implementar modo infinito con ranking local.
-- [ ] Port a WebGL para jugar directamente en el navegador.
-- [ ] Sistema de logros y desbloqueables.
-- [ ] Optimización para dispositivos móviles.
-
----
 
 ## 👤 Autor
 
